@@ -1,0 +1,101 @@
+body {
+	color: #3F2860;
+    background-color: #F5F5F5;   
+    font-family: "Tahoma", Sans-serif;
+
+
+}
+html{
+    background-color: #3F2860;
+}
+    .h1{
+        line-height: 200%;
+    }
+  	.header {
+    background-color: #9BC1C2 ;
+    text-align: left;
+    padding: 10px;
+}
+    .himg{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width:400px;
+    height:125px;
+    }
+
+   .himg1{
+    vertical-align: middle;
+    display: inline-block;
+    width:250px;
+    height:300px;
+}
+ 	.links{
+    width: 200px;
+    height: 450px;
+    font-weight: bold;   
+    float: left;
+}
+    .links form a:hover {
+    color:  #A26100;
+}
+    .links form a:visited {
+    color: #497777;
+}
+    .wrap1{
+        display: inline-block;
+
+    }
+   .wrap2{
+        position: absolute;
+        display: inline-block;
+        padding: 20px;
+    }
+
+    .but {
+    display: block;
+    text-align: center;
+    padding: 15px 16px;
+    border-bottom: 3px solid #898888;
+    border-right: 3px solid #898888;
+    border-left: 3px solid #CCCCCC;
+    border-top: 3px solid #CCCCCC;
+    width: 80%;
+    position: relative;
+    left: 20px;
+}
+
+    .cBox {
+    width: 200px; 
+    height: 40px
+}
+    label{
+    display: inline-block; 
+    width: 200px; 
+    text-align: right;
+    }
+
+    .links form a:link, a:active {
+    color: #3F2860;
+}
+
+ 	.footer {
+    background-color: #9BC1C2 ;
+    text-align: center;
+    padding: 20px;
+    font-style: italic;
+}
+    .but1{
+    position: relative;
+    left: 200px;
+}
+    #wrapper {
+     width: 80%;
+     margin:0 auto ;
+     display: inline-block;
+    }
+
+ nav { 
+    text-align: center; 
+    font-weight: bold;
+ }
